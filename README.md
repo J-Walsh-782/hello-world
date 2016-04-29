@@ -1,2 +1,2 @@
 # hello-world
-First repository
+John Walsh's first repository, and tutorial learning. 
